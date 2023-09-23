@@ -2528,9 +2528,6 @@ implementations are available using <function>PharFileInfo::isCompressed</functi
  is enabled by default.
 </para>'>
 
-<!-- XMLReader -->
-<!ENTITY xmlreader.libxml20620.note '<caution xmlns="http://docbook.org/ns/docbook"><para>This function is only available when PHP is compiled against libxml 20620 or later.</para></caution>'>
-
 <!-- inotify -->
 <!ENTITY inotify.instance.description 'Resource returned by
 <function xmlns="http://docbook.org/ns/docbook">inotify_init</function>'>
